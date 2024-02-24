@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shared_Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 2
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 41feda1cb059dda4793e2d9ec73fc6e0, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a3ce6471594e28f4b98154dbb48e5d10, type: 3}
+  - {fileID: 21300000, guid: 61b8b6818a1920547b27b3b1f12a0a67, type: 3}
+  - {fileID: 21300000, guid: 3b9f25b492734d64797b2cc5e98acabf, type: 3}
+  - {fileID: 21300000, guid: cac973a514146c243aa15bbce8d8588d, type: 3}
+  - {fileID: 21300000, guid: 2c3415e5a1b19f849a76fcadbe30d509, type: 3}
+  - {fileID: 21300000, guid: 2cecc88633682d34b99b89f642ef8e0b, type: 3}
+  - {fileID: 21300000, guid: 1f8557f782418f34982ea6a26793bdda, type: 3}
+  - {fileID: 21300000, guid: 659ff54b329c7704aa3f5825e561f325, type: 3}
+  - {fileID: 21300000, guid: f32fa09b97921ac4a9cc1accf2b38833, type: 3}
+  - {fileID: 21300000, guid: e6e2f33e255211c4fb11c5b9383d9315, type: 3}
+  - {fileID: 21300000, guid: 486f727e0ecea8c468be53efa9941be7, type: 3}
+  - {fileID: 21300000, guid: 7bdcafae0b599684c9be4d1af310210f, type: 3}
+  - {fileID: 21300000, guid: d996d50feee18a8469f13a62db0cea52, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - cross_rounded
+  - rectangle_gradient_up
+  - arrow_rounded
+  - cicle_empty
+  - rectangle_rounded_empty
+  - circle_gradient_out
+  - circle_filled
+  - cross
+  - rectangle_rounded_filled
+  - rectangle_empty
+  - circle_gradient_in
+  - rectangle_gradient_down
+  - rectangle_filled
+  m_RenderDataMap: {}
+  m_Tag: Shared_Atlas
+  m_IsVariant: 0
